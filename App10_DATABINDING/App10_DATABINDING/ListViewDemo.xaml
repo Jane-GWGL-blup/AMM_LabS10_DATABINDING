@@ -11,6 +11,7 @@
                         <ViewCell>
                             <ViewCell.View>
                                 <Label Text="{Binding FriendlyName}" />
+                                
                             </ViewCell.View>
                         </ViewCell>
                     </DataTemplate>

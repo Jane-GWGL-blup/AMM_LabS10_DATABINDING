@@ -4,9 +4,11 @@
              x:Class="App10_DATABINDING.MainPage">
 
     <StackLayout>
+        
         <Frame BackgroundColor="Green" Padding="24" CornerRadius="0">
             <Label Text="DATABINDING SEM 10" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
+        
         <StackLayout>
             <Button x:Name="Item1" Text="ViewToViewDemo" TextColor="Purple"/>
             <Button x:Name="Item2" Text="BindingModeDemo" TextColor="DarkBlue"/>
